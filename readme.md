@@ -1,1 +1,1 @@
-thi s is sample
+this is sample
